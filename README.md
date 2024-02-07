@@ -1,5 +1,6 @@
 
-# RAPID-UPI: Revolutionizing UPI for Seamless Transactions
+# Cyber-Maitri: 
+"Empowerment in an Instant: Your Card, Your Control."
 
 ## Description:
 ![3](https://github.com/yash-25log/jims_hack/assets/58944204/76f82491-adfe-4ba8-9291-791072e03f45)
