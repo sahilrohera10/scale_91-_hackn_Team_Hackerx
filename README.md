@@ -3,30 +3,23 @@
 "Empowerment in an Instant: Your Card, Your Control."
 
 ## Description:
-![3](https://github.com/yash-25log/jims_hack/assets/58944204/76f82491-adfe-4ba8-9291-791072e03f45)
+![image](https://github.com/YASH-RAJ-HANS/scale_91-_hackn_Team_Hackerx/assets/97382303/452aecd6-966c-4bdd-bf43-b4f31d76660c)
 
-Welcome to our revolutionary project aimed at reimagining the UPI (Unified Payments Interface) system to enhance user experience and transaction efficiency in the Fin-Tech domain. Our mission is to transcend the current framework by introducing innovative solutions that prioritize speed, scalability, and user-friendly interfaces. We invite you to join us in this journey to bring fresh perspectives to UPI, optimize its capabilities, and explore novel features that elevate the overall transactional ecosystem.
+
+We aim to revolutionize the banking experience through a mobile app that addresses two critical challenges. Firstly, we propose 'Instant Virtual Card Issuance upon Approval,' allowing users immediate access to a virtual card for seamless transactions while awaiting their physical card. This ensures users can transact without delays, enhancing their banking convenience. Secondly, we introduce a 'Credit Score Validator' within the app, offering real-time insights into users' creditworthiness. 
 
 ## Problem Statements
-![2](https://github.com/yash-25log/jims_hack/assets/58944204/492027ee-1702-451d-b5f5-d258c070d1d8)
-## Features:
-### 1.Contri Rooms for Collaborative Spending: 
-![4](https://github.com/yash-25log/jims_hack/assets/58944204/6f45e6f2-3153-44ae-a662-707fcd7fcfff)
-Collaborate seamlessly with others for shared expenses, making group transactions more manageable and transparent. 
-### 2.Payment Glitch Mechanism: 
-![CodeKshetra](https://github.com/yash-25log/jims_hack/assets/58944204/7cbe8d56-1a04-4515-b058-e04eb7357a43)
-<br>
-Implement a robust mechanism to handle payment glitches and ensure smooth transactions even in challenging scenarios.
-### 3.Creative Visualisation: 
-![5](https://github.com/yash-25log/jims_hack/assets/58944204/37b73bf6-6c93-4568-bbac-65ebbf0853db)
-Incorporate interactive graphs and charts that allow users to explore their transaction data dynamically.
-### 4.Biometric Authentication:
-Enhance security and convenience by incorporating biometric authentication methods, providing users with a seamless yet secure payment experience
+![image](https://github.com/YASH-RAJ-HANS/scale_91-_hackn_Team_Hackerx/assets/97382303/4cdca415-7f9c-4cd0-b78e-177d962ae751)
 
-## Technologies Used:
-### 1.React Native: 
-Frontend framework for building cross-platform mobile applications.
-### 2.Node.js: 
-Backend framework for building scalable server-side applications.
-### 3.Mongo DB
-### 4.React-Native Chart Kit
+## Features:
+### 1. E-Credit Card with QR Code Generation:
+Instant Accessibility: Receive not only a virtual debit card but also an E-Credit Card upon approval, providing an extended line of credit for your financial needs.
+QR Code Convenience: Seamlessly transact by generating QR codes for swift and secure payments. Whether in-store or online, your transactions are now just a scan away.
+Enhanced Security: Benefit from advanced security features embedded in the E-Credit Card, ensuring your transactions are protected against potential threats.
+Collaborate seamlessly with others for shared expenses, making group transactions more manageable and transparent. 
+### 2.Ledger on Blockchain: 
+Transparent Financial Records: Embrace transparency in your financial transactions with our Blockchain Ledger Integration. Every transaction is securely recorded on the blockchain, providing an immutable and transparent ledger.
+Decentralized Security: Leverage the decentralized nature of blockchain to enhance the security of your financial data. Your financial records are stored securely across a distributed network, reducing the risk of data breaches.
+Effortless Auditing: Simplify your financial audits with a blockchain ledger that ensures accuracy and reliability. Track and verify your transactions effortlessly, giving you full control and confidence in your financial history.
+
+
